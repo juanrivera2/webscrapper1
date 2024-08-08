@@ -3,4 +3,5 @@ requests==2.31.0
 pandas==2.1.4
 numpy==1.26.4
 streamlit==1.36.0
+st_star_rating
 matplotlib==3.7.5
